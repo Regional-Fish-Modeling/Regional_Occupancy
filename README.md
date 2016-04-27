@@ -92,6 +92,7 @@ Metric              | Penn State | Conte |
 
 ## Limitations of Studies
 
-* No colonization-extinction
+* No colonization-extinction (static, not dynamic models)
 * No standardized effort
+* No detection correction
 
